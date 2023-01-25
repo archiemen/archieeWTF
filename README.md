@@ -1,14 +1,3 @@
-<!---
->About Me
-
-- 👋 Hi, I’m @archieeWTF
-- 👀 I’m interested in - men
-- 🌱 I’m currently learning - Html, Css, Javascript.
-
->Socials
-
-Discord - Archie.#1337
-
-archieeWTF/archieeWTF is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![archieb.xyz](https://github-readme-stats.vercel.app/api?username=archieewtf&show_icons=true&theme=midnight-purple)
+---------
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=archieewtf&langs_count=8&theme=midnight-purple)
